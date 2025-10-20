@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="./assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="380"/>
+  <img src="../assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
 </p>
-
-<h2 align="center">🦈 Week 2 — Rust & Soroban</h2>
-<p align="center">Learning Rust fundamentals and deploying smart contracts with Soroban CLI.</p>
 
 
 # Week 2 – From Hello World to Real Contracts
