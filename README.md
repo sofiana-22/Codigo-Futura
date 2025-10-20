@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./week-02-rust-soroban/assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="420"/>
+</p>
+
+<h2 align="center">🦈 Codigo Futura — Web3 Builders Journey</h2>
+<p align="center">Learning Stellar, Rust, and Soroban step by step with Buen Día Builders.</p>
+
 \# 🚀 Código Futura - My Web3 Learning Journey
 
 

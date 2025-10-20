@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="../week-02-rust-soroban/assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="380"/>
+</p>
+
+<h2 align="center">🚀 Week 1 — Stellar First Flight</h2>
+<p align="center">First steps building and testing smart contracts on Stellar testnet.</p>
+
+
 \# Week 1: Stellar First Flight 🚀
 
 
