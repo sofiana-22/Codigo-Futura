@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="../assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
+</p>
 # 🚀 Class 6 — My Token Comes to Life (Student Notes)
 
 > Goal of the day: see my BDB token **alive** on testnet and interact with it from a **frontend** using my **wallet**. No extra theory — just the minimum steps to make it work.
