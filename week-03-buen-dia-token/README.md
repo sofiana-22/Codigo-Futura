@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
+</p>
+
 # 🦈 Week 3 — My Token Comes to Life
 
 > “From writing code to seeing my token live on the blockchain.”  
