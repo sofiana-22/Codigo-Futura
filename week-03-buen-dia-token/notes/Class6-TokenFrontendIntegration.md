@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
+  <img src="/assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
 </p>
 # 🚀 Class 6 — My Token Comes to Life (Student Notes)
 
