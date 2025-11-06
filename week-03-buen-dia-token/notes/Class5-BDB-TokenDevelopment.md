@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
+  <img src="/assets/tiburona.png" alt="Tiburona - Buen Día Builders" width="280">
 </p>
 
 # 🚀 Class 5 - ERC-20-Like Token Contract on Stellar / Soroban  
